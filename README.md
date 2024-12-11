@@ -28,7 +28,7 @@ Setup:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/internet-usage-analysis.git
+git clone https://github.com/NandiniAchalla/data-analysis.git
 Install required dependencies:
 Copy code
 pip install -r requirements.txt
