@@ -1,4 +1,5 @@
-#Internet Usage Session Analysis
+Internet Usage Session Analysis
+
 This project analyzes a dataset of internet usage sessions, exploring user behaviors and session terminations. It leverages Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, analysis, and visualization.
 
 Key Features:
