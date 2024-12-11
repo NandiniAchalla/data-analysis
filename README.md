@@ -30,10 +30,4 @@ Key Features:
 5.Insights:
 * Identified user behavior and peak usage times.
 * Analyzed session break reasons to understand common causes for session terminations.
-Setup:
-* Clone the repository:
-* git clone https://github.com/NandiniAchalla/data-analysis.git
-* Install required dependencies:
-* pip install -r requirements.txt
-* Run the Jupyter notebook for analysis:
-* jupyter notebook analysis.ipynb
+
